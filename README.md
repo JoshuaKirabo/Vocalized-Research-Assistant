@@ -24,7 +24,7 @@ Vocalized Research Assistant transforms academic papers, reports, and other PDFs
 <img align="left" alt="PDF Miner" width="30px" style="padding-right:10px;" src="./GitHub_icons/pdfminer.svg" /> 
 <img align="left" alt="Python FFMPEG" width="30px" style="padding-right:10px;" src="./GitHub_icons/python_ffmpeg_logo.png" /> 
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="FastSpeech2" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Speech_icon.svg" />
+<img align="left" alt="FastSpeech2" width="30px" style="padding-right:10px;" src="./GitHub_icons/bubble-chat.png" />
 <img align="left" alt="AWS EC2" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" />
 </br>
 
