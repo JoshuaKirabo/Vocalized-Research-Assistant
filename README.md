@@ -33,13 +33,13 @@ Vocalized Research Assistant transforms academic papers, reports, and other PDFs
 
 ---
 ## ⚙️ How it Works
-1️⃣ User uploads a PDF
-2️⃣ PDFMiner extracts raw text (messy and unstructured)
-3️⃣ BART cleans & structures the text
-4️⃣ Fine-tuned T5 formats text into a casual podcast script
-5️⃣ FastSpeech2 + HiFi-GAN generate AI voice narration
-6️⃣ Overlay AI speech with background music using ffmpeg
-7️⃣ The final MP3 file is sent to the frontend
+- User uploads a PDF
+- PDFMiner extracts raw text (messy and unstructured)
+- BART cleans & structures the text
+- Fine-tuned T5 formats text into a casual podcast script
+- FastSpeech2 + HiFi-GAN generate AI voice narration
+- Overlay AI speech with background music using ffmpeg
+- The final MP3 file is sent to the frontend
 
 This is a work in progress. Excited to see how it evolves! 🚀
 
