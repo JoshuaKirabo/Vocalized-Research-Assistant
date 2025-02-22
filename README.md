@@ -24,9 +24,9 @@ Vocalized Research Assistant transforms academic papers, reports, and other PDFs
 <img align="left" alt="PDF Miner" width="30px" style="padding-right:10px;" src="./GitHub_icons/pdfminer.svg" /> 
 <img align="left" alt="Python FFMPEG" width="30px" style="padding-right:10px;" src="./GitHub_icons/python_ffmpeg_logo.png" /> 
 <img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-<img align="left" alt="BART AI" width="30px" style="padding-right:10px;" src="./GitHub_icons/Bart-logo.svg" />
-<img align="left" alt="T5 Transformer" width="30px" style="padding-right:10px;" src="./GitHub_icons/T5.webp" />
-<img align="left" alt="HiFi-GAN" width="30px" style="padding-right:10px;" src="./GitHub_icons/hifigan.png" />
+<img align="left" alt="BART AI" width="30px" style="padding-right:10px;" src="./GitHub_icons/Bart-logo.png" />
+<img align="left" alt="T5 Transformer" width="30px" style="padding-right:10px;" src="./GitHub_icons/t5.webp" />
+<img align="left" alt="HiFi-GAN" width="30px" style="padding-right:10px;" src="./GitHub_icons/hifigan.jpeg" />
 <img align="left" alt="FastSpeech2" width="30px" style="padding-right:10px;" src="./GitHub_icons/bubble-chat.png" />
 <img align="left" alt="AWS EC2" width="30px" style="padding-right:10px;" src="https://icon.icepanel.io/AWS/svg/Compute/EC2.svg" />
 </br>
